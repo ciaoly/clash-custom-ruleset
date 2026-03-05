@@ -1,0 +1,36 @@
+# Github
+DOMAIN-KEYWORD,github
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubusercontent.com
+
+# 阿里云
+# DOMAIN-SUFFIX,home-intl.console.aliyun.com
+
+# IP
+DOMAIN,ip.skk.moe
+DOMAIN,ip.sb
+
+
+# Google
+# DOMAIN-SUFFIX,googleapis.cn
+
+# mt
+DOMAIN-KEYWORD,m-team
+
+# openai
+# DOMAIN,o33249.ingest.sentry.io
+# DOMAIN,openaiapi-site.azureedge.net
+# DOMAIN-SUFFIX,ai.com
+# DOMAIN-SUFFIX,auth0.com
+# DOMAIN-SUFFIX,identrust.com
+# DOMAIN-SUFFIX,intercom.io
+# DOMAIN-SUFFIX,openai.com
+# DOMAIN-SUFFIX,oaistatic.com
+# DOMAIN-SUFFIX,oaiusercontent.com
+
+# 划水
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,miaostay.com

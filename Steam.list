@@ -1,0 +1,4 @@
+# > Steam
+DOMAIN-SUFFIX,cm.steampowered.com // Steam Connect Manager Servers
+DOMAIN,api.steampowered.com
+DOMAIN-KEYWORD,steam
